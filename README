@@ -1,2 +1,5 @@
-# nlp_talk_apr2017
-code for walk-through of machine learning concepts of classification and natural language processing
+Python code is for walk-through of machine learning concepts of classification and natural language processing at the April
+2017 Oklahoma City Python Users Group meetup (https://www.meetup.com/Oklahoma-City-Python-Users-Group/). Original data and
+code from www.superdatascience.com/machine-learning/ and is intended for online course at www.udemy.com/machinelearning/.
+I enjoyed this entire course and encourage you to take it for MUCH more information on practial machine learning in general.
+The code has been heavily modified and amplified before appearing here.
